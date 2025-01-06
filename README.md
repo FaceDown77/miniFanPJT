@@ -64,7 +64,7 @@
 🔉UART 통신 동작 동영상 자료 링크(구글 드라이브)🔉 <br>
 <a href="https://drive.google.com/file/d/1hH6_jKAAv3nEyMdFPuyqLNhV4jterKDz/view?usp=drive_link" target="_blank">https://drive.google.com/file/d/1hH6_jKAAv3nEyMdFPuyqLNhV4jterKDz/view?usp=drive_link</a>
 
-### 소프트웨어 설계 상세
+### 🔍 소프트웨어 설계 상세
 #### S/W STACK 다이어그램
 ![S/W STACK 다이어그램](<images/SW STACK Diagram.jpg>)
 
