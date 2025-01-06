@@ -1,5 +1,5 @@
 # 간이 선풍기
-![alt text](images/20240809_104920.jpg)
+![alt text](images/ItemLayout.jpg)
 
 ## 프로젝트 의의
 - 강의와 실습 간에 쌓은 ***C언어 스킬***을 활용
@@ -23,6 +23,8 @@
 - 330ohm 저항 _ 4ea
 - 4.7ohm 저항 _ 4ea
 ### 🔧 사용 기술
+- C 언어
+- Microchip Studio & ATmega128
 - 외부전원 : Power Supply 5V, 1.6A 전원 입력
 - Timer/Counter 0 : FND 주사, 128분주비, Interrupt Mode
 - Timer/Counter 3 : 1ms 타이머, 64분주비, CTC Mode
@@ -43,16 +45,16 @@
 - UART통신 기능 : 버튼 조작 외 UART 통신을 통해 1)~4) 동작을 모두 실행 가능
 ![시스템 입출력 다이어그램](images/diagram_1.jpg)
 
-### 동작 영상
+### 🎞️ 동작 영상
 #### 1. 풍량 조절
-[풍량 조절 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1Z24LrA3Dcb3oldA8JMVal8H50qN7Tyy7/view?usp=drive_link)
+🔉[풍량 조절 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/19gs8P7-rFppB3NFqyos_73Lbha8Nv4Pf/view?usp=drive_link)
 
 #### 2. 수면풍 모드
-[수면풍 모드 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1SxDq5tcQk3i9MlSg1Z946tFc_DzZNqRU/view?usp=drive_link)
+🔉[수면풍 모드 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1e0WeKtBZaEqR37X7nsCfFT9qKvAtpIsK/view?usp=drive_link)
 
 #### 3. 타이머 동작
-[타이머 동작-1 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1G0Bbxh-wbvqUWT6xhggsxWVF3MoFm4ST/view?usp=drive_link) <br>
-[타이머 동작-2 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/18HKC5l6BVTKuFSk6SKLZWWpyUodV110n/view?usp=drive_link)
+🔉[타이머 동작-1 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1WmR8FfHMreME-Ovb0nZ2_zkEwWD9evsF/view?usp=drive_link) <br>
+🔉[타이머 동작-2 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1PacNfjfUu3x1u2CaEsdSU4F3SoVpaPpE/view?usp=drive_link)
 
 #### 4. UART통신
-[UART 통신 동작 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1EDWV-0sAP-9QbswBMdkymvcWWrat9ojR/view?usp=drive_link)
+🔉[UART 통신 동작 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1hH6_jKAAv3nEyMdFPuyqLNhV4jterKDz/view?usp=drive_link)
