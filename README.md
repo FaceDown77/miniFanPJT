@@ -47,14 +47,16 @@
 
 ### 🎞️ 동작 영상
 #### 1. 풍량 조절
-🔉[풍량 조절 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/19gs8P7-rFppB3NFqyos_73Lbha8Nv4Pf/view?usp=drive_link)
+🔉[풍량 조절 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/19gs8P7-rFppB3NFqyos_73Lbha8Nv4Pf/view?usp=drive_link){:target="_blank"}
 
 #### 2. 수면풍 모드
-🔉[수면풍 모드 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1e0WeKtBZaEqR37X7nsCfFT9qKvAtpIsK/view?usp=drive_link)
+🔉[수면풍 모드 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1e0WeKtBZaEqR37X7nsCfFT9qKvAtpIsK/view?usp=drive_link){:target="_blank"}
 
 #### 3. 타이머 동작
-🔉[타이머 동작-1 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1WmR8FfHMreME-Ovb0nZ2_zkEwWD9evsF/view?usp=drive_link) <br>
-🔉[타이머 동작-2 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1PacNfjfUu3x1u2CaEsdSU4F3SoVpaPpE/view?usp=drive_link)
+🔉[타이머 동작-1 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1WmR8FfHMreME-Ovb0nZ2_zkEwWD9evsF/view?usp=drive_link){:target="_blank"} <br>
+🔉[타이머 동작-2 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1PacNfjfUu3x1u2CaEsdSU4F3SoVpaPpE/view?usp=drive_link){:target="_blank"}
 
 #### 4. UART통신
-🔉[UART 통신 동작 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1hH6_jKAAv3nEyMdFPuyqLNhV4jterKDz/view?usp=drive_link)
+🔉[UART 통신 동작 동영상 자료 링크(구글 드라이브)](https://drive.google.com/file/d/1hH6_jKAAv3nEyMdFPuyqLNhV4jterKDz/view?usp=drive_link){:target="_blank"}
+
+테스트
